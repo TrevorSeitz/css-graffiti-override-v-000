@@ -7,6 +7,6 @@
   display: none;
 }
 
-div#wall div#tag.slick {
+div#wall .parent #tag.slick {
   display: none;
 }
